@@ -1,4 +1,4 @@
-# 🛡️ Face Shield AI (POWEREN)
+ # 🛡️ Face Shield AI (POWEREN)
 
 > طراحی و توسعه: **poweren.ir**  
 > سیستم هوشمند محوسازی چهره با استفاده از YOLOv8
@@ -102,7 +102,7 @@ This tool is ideal for:
 
 ### 🔹 Output Preview (Faces Blurred)
 
-![Before and After Processing](Befor_After.jpg)
+![Before and After Processing](cover.jpg)
 
 ---
 
